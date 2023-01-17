@@ -107,4 +107,5 @@ height:100PX ;
 
 .list{ 
     padding: 20px;
+    list-style-position: inside;
 }
