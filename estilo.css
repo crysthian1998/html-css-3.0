@@ -109,3 +109,17 @@ height:100PX ;
     padding: 20px;
     list-style-position: inside;
 }
+
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+}
+
+td{
+    
+    border:1px solid #000000;
+    width: 400px;
+    padding: 8px;
+    
+
+}
